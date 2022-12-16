@@ -1,0 +1,24 @@
+
+.navbar{
+    background-color: #ccc;
+}
+.nav-item a{
+    border: 1px solid #000;
+}
+h1{
+    text-align: center;
+    margin: 10px auto 30px;
+}
+
+p{
+    text-align: left;
+}
+#single-page{
+    padding: 10px 20px;
+    height: 900px;
+    background-color: #ccc;
+}
+
+.navbar-toggler{
+    border: 1px solid #fff;
+}
